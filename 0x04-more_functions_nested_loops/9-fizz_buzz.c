@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
-* main -	Prints numbers 1 to 100 in a special way
-* Return:	Alwasys 0
+* main - Prints numbers 1 to 100 in a special way
+* Return: Always 0
 */
 
 int main(void)
