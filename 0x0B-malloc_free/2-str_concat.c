@@ -1,6 +1,6 @@
 #include "main.h"
 #include <stdlib.h>
-
+#include <stdio.h>
 /**
  * alloc_grid - create a 2d integer grid using malloc.
  * Description: Each element of the grid should be initialized to 0.
